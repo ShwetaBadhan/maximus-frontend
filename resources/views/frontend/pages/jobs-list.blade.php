@@ -320,7 +320,8 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="box-view-type"><a class="view-type" href="{{ route('jobs-list') }}"><img
+                                            <div class="box-view-type"><a class="view-type"
+                                                    href="{{ route('jobs-list') }}"><img
                                                         src="assets/imgs/template/icons/icon-list.svg" alt="jobBox"></a><a
                                                     class="view-type" href="{{ route('jobs-list') }}"><img
                                                         src="assets/imgs/template/icons/icon-grid-hover.svg"
@@ -346,9 +347,12 @@
                                             <p class="font-sm color-text-paragraph mt-15">Lorem ipsum dolor sit amet,
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur</p>
-                                            <div class="mt-30"><a class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Adobe
-                                                    XD</a><a class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Figma</a><a
-                                                    class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Photoshop</a>
+                                            <div class="mt-30"><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Adobe
+                                                    XD</a><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Figma</a><a
+                                                    class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Photoshop</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
                                                 <div class="row">
@@ -356,8 +360,7 @@
                                                             class="card-text-price">$500</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -380,7 +383,8 @@
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur.</p>
                                             <div class="mt-30"><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">React</a><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">React</a><a
+                                                    class="btn btn-grey-small mr-5"
                                                     href="{{ route('jobs-list') }}">NodeJS</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
@@ -389,8 +393,7 @@
                                                             class="card-text-price">$800</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -413,8 +416,10 @@
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur.</p>
                                             <div class="mt-30"><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">Python</a><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">AWS</a><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Python</a><a
+                                                    class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">AWS</a><a
+                                                    class="btn btn-grey-small mr-5"
                                                     href="{{ route('jobs-list') }}">Photoshop</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
@@ -423,8 +428,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -437,7 +441,8 @@
                                             <div class="image-box"><img src="assets/imgs/brands/brand-4.png" alt="jobBox">
                                             </div>
                                             <div class="right-info"><a class="name-job"
-                                                    href="javascript:void(0)">Dailymotion</a><span class="location-small">New
+                                                    href="javascript:void(0)">Dailymotion</a><span
+                                                    class="location-small">New
                                                     York, US</span></div>
                                         </div>
                                         <div class="card-block-info">
@@ -448,8 +453,8 @@
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur.</p>
                                             <div class="mt-30"><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">Typescript</a><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">Java</a>
+                                                    href="{{ route('jobs-list') }}">Typescript</a><a
+                                                    class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Java</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
                                                 <div class="row">
@@ -457,8 +462,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -490,8 +494,7 @@
                                                             class="card-text-price">$500</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -523,8 +526,7 @@
                                                             class="card-text-price">$800</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -556,8 +558,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -591,8 +592,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -615,9 +615,12 @@
                                             <p class="font-sm color-text-paragraph mt-15">Lorem ipsum dolor sit amet,
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur</p>
-                                            <div class="mt-30"><a class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Adobe
-                                                    XD</a><a class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Figma</a><a
-                                                    class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Photoshop</a>
+                                            <div class="mt-30"><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Adobe
+                                                    XD</a><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Figma</a><a
+                                                    class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Photoshop</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
                                                 <div class="row">
@@ -625,8 +628,7 @@
                                                             class="card-text-price">$500</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -649,7 +651,8 @@
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur.</p>
                                             <div class="mt-30"><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">React</a><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">React</a><a
+                                                    class="btn btn-grey-small mr-5"
                                                     href="{{ route('jobs-list') }}">NodeJS</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
@@ -658,8 +661,7 @@
                                                             class="card-text-price">$800</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -682,8 +684,10 @@
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur.</p>
                                             <div class="mt-30"><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">Python</a><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">AWS</a><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Python</a><a
+                                                    class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">AWS</a><a
+                                                    class="btn btn-grey-small mr-5"
                                                     href="{{ route('jobs-list') }}">Photoshop</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
@@ -692,8 +696,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -706,7 +709,8 @@
                                             <div class="image-box"><img src="assets/imgs/brands/brand-4.png" alt="jobBox">
                                             </div>
                                             <div class="right-info"><a class="name-job"
-                                                    href="javascript:void(0)">Dailymotion</a><span class="location-small">New
+                                                    href="javascript:void(0)">Dailymotion</a><span
+                                                    class="location-small">New
                                                     York, US</span></div>
                                         </div>
                                         <div class="card-block-info">
@@ -717,8 +721,8 @@
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur.</p>
                                             <div class="mt-30"><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">Typescript</a><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">Java</a>
+                                                    href="{{ route('jobs-list') }}">Typescript</a><a
+                                                    class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Java</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
                                                 <div class="row">
@@ -726,8 +730,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -759,8 +762,7 @@
                                                             class="card-text-price">$500</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -792,8 +794,7 @@
                                                             class="card-text-price">$800</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -825,8 +826,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -860,8 +860,7 @@
                                                             class="card-text-price">$250</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -884,9 +883,12 @@
                                             <p class="font-sm color-text-paragraph mt-15">Lorem ipsum dolor sit amet,
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur</p>
-                                            <div class="mt-30"><a class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Adobe
-                                                    XD</a><a class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Figma</a><a
-                                                    class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">Photoshop</a>
+                                            <div class="mt-30"><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Adobe
+                                                    XD</a><a class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Figma</a><a
+                                                    class="btn btn-grey-small mr-5"
+                                                    href="{{ route('jobs-list') }}">Photoshop</a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
                                                 <div class="row">
@@ -894,8 +896,7 @@
                                                             class="card-text-price">$500</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -918,8 +919,9 @@
                                                 consectetur adipisicing elit. Recusandae architecto eveniet, dolor quo
                                                 repellendus pariatur.</p>
                                             <div class="mt-30"><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">React</a><a class="btn btn-grey-small mr-5"
-                                                    href="{{ route('jobs-list') }}">NodeJS </a>
+                                                    href="{{ route('jobs-list') }}">React</a><a
+                                                    class="btn btn-grey-small mr-5" href="{{ route('jobs-list') }}">NodeJS
+                                                </a>
                                             </div>
                                             <div class="card-2-bottom mt-30">
                                                 <div class="row">
@@ -927,8 +929,7 @@
                                                             class="card-text-price">$800</span><span
                                                             class="text-muted">/Hour</span></div>
                                                     <div class="col-lg-5 col-5 text-end">
-                                                        <div class="btn btn-apply-now" data-bs-toggle="modal"
-                                                            data-bs-target="#ModalApplyJobForm">Apply now</div>
+                                                        <a class="btn btn-apply-now" href={{ route('candidate-enrollment') }}>Apply Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1286,7 +1287,8 @@
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
-                                            <div class="tags mb-15"><a class="btn btn-tag" href="javascript:void(0)">News</a></div>
+                                            <div class="tags mb-15"><a class="btn btn-tag"
+                                                    href="javascript:void(0)">News</a></div>
                                             <h5><a href="javascript:void(0)">21 Job Interview Tips: How To Make a Great
                                                     Impression</a></h5>
                                             <p class="mt-10 color-text-paragraph font-sm">Our mission is to create the
@@ -1319,7 +1321,8 @@
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
-                                            <div class="tags mb-15"><a class="btn btn-tag" href="javascript:void(0)">Events</a></div>
+                                            <div class="tags mb-15"><a class="btn btn-tag"
+                                                    href="javascript:void(0)">Events</a></div>
                                             <h5><a href="javascript:void(0)">39 Strengths and Weaknesses To Discuss in a Job
                                                     Interview</a></h5>
                                             <p class="mt-10 color-text-paragraph font-sm">Our mission is to create the
@@ -1352,8 +1355,10 @@
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
-                                            <div class="tags mb-15"><a class="btn btn-tag" href="javascript:void(0)">News</a></div>
-                                            <h5><a href="javascript:void(0)">Interview Question: Why Dont You Have a Degree?</a>
+                                            <div class="tags mb-15"><a class="btn btn-tag"
+                                                    href="javascript:void(0)">News</a></div>
+                                            <h5><a href="javascript:void(0)">Interview Question: Why Dont You Have a
+                                                    Degree?</a>
                                             </h5>
                                             <p class="mt-10 color-text-paragraph font-sm">Learn how to respond if an
                                                 interviewer asks you why you dont have a degree, and read example answers
@@ -1383,7 +1388,8 @@
                         <div class="swiper-button-next"></div>
                         <div class="swiper-button-prev"></div>
                     </div>
-                    <div class="text-center"><a class="btn btn-brand-1 btn-icon-load mt--30 hover-up" href="javascript:void(0)">Load
+                    <div class="text-center"><a class="btn btn-brand-1 btn-icon-load mt--30 hover-up"
+                            href="javascript:void(0)">Load
                             More Posts</a></div>
                 </div>
             </div>
