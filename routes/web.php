@@ -25,3 +25,7 @@ Route::get('/login', function () {
 Route::get('/about-us', function () {
     return view('frontend.pages.about-us');
 })->name('about-us');
+
+Route::get('/candidate-enrollment', function () {
+    return view('frontend.pages.candidate-enrollment');
+})->name('candidate-enrollment');
