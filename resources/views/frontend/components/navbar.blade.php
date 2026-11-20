@@ -3,8 +3,8 @@
         <div class="main-header">
             <div class="header-left">
                 <div class="header-logo">
-                    <a class="d-flex" href="{{ route('home') }}"><img alt="jobBox"
-                            src="assets/imgs/template/jobhub-logo.svg" /></a>
+                    <a class="d-flex" href="{{ route('home') }}"><img alt="Maximus"
+                            src="assets/imgs/logo/maximus-logo.png" /></a>
                 </div>
             </div>
             <div class="header-nav">

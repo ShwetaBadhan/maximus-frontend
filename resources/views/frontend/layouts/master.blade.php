@@ -14,7 +14,7 @@
     <meta name="author" content="" />
     <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/template/favicon.svg"/>
     <link href="assets/css/style.css" rel="stylesheet" />
-    <title>Jobbox</title>
+    <title>Maximus</title>
   </head>
   <body>
 

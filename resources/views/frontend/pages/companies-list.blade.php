@@ -86,10 +86,10 @@
                                                 </div>
                                             </div>
                                             <div class="box-view-type"><a class="view-type" href="{{ route('jobs-list') }}"><img
-                                                        src="assets/imgs/template/icons/icon-list.svg" alt="jobBox"></a><a
+                                                        src="assets/imgs/template/icons/icon-list.svg" alt="Maximus"></a><a
                                                     class="view-type" href="{{ route('jobs-list') }}"><img
                                                         src="assets/imgs/template/icons/icon-grid-hover.svg"
-                                                        alt="jobBox"></a></div>
+                                                        alt="Maximus"></a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -98,14 +98,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-1.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-1.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Car Toys</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>66</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -117,14 +117,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-2.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-2.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Carols Daughter</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>18</span><span>)</span></span>
                                             </div><span class="card-location">London, UK</span>
@@ -136,14 +136,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-3.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-3.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Amazon</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>52</span><span>)</span></span>
                                             </div><span class="card-location">Tokyo,Japan</span>
@@ -155,14 +155,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-4.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-4.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Baseball Savings</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>85</span><span>)</span></span>
                                             </div><span class="card-location">Chicago, US</span>
@@ -174,14 +174,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-5.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-5.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Ashford</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>25</span><span>)</span></span>
                                             </div><span class="card-location">Toronto, Italia</span>
@@ -193,14 +193,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-6.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-6.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Callaway Golf</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>34</span><span>)</span></span>
                                             </div><span class="card-location">San Francisco, US</span>
@@ -212,14 +212,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-7.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-7.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Percepta</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>97</span><span>)</span></span>
                                             </div><span class="card-location">Chinatown, Singpore</span>
@@ -231,14 +231,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-8.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-8.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Exela Movers</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>67</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -250,14 +250,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-9.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-9.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Ibotta, Inc</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>45</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -269,14 +269,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-1.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-1.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Wanderu </a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>08</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -288,14 +288,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-2.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-2.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Aceable, Inc.</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>54</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -307,14 +307,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-3.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-3.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Intrepid Travel</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>123</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -326,14 +326,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-4.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-4.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Defendify </a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>64</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -345,14 +345,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-5.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-5.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Twisters </a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>34</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -364,14 +364,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-6.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-6.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Fireworks</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>12</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -383,14 +383,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-1.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-1.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Car Toys</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>66</span><span>)</span></span>
                                             </div><span class="card-location">New York, US</span>
@@ -402,14 +402,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-2.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-2.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Carols Daughter</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>18</span><span>)</span></span>
                                             </div><span class="card-location">London, UK</span>
@@ -421,14 +421,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-3.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-3.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Amazon</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>52</span><span>)</span></span>
                                             </div><span class="card-location">Tokyo,Japan</span>
@@ -440,14 +440,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-4.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-4.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Baseball Savings</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>85</span><span>)</span></span>
                                             </div><span class="card-location">Chicago, US</span>
@@ -459,14 +459,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-5.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-5.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Ashford</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>25</span><span>)</span></span>
                                             </div><span class="card-location">Toronto, Italia</span>
@@ -478,14 +478,14 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-1 hover-up wow animate__animated animate__fadeIn">
                                         <div class="image-box"><a href="javascript:void(0)"><img
-                                                    src="assets/imgs/brands/brand-6.png" alt="jobBox"></a></div>
+                                                    src="assets/imgs/brands/brand-6.png" alt="Maximus"></a></div>
                                         <div class="info-text mt-10">
                                             <h5 class="font-bold"><a href="javascript:void(0)">Callaway Golf</a></h5>
-                                            <div class="mt-5"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
-                                                    src="assets/imgs/template/icons/star.svg"><img alt="jobBox"
+                                            <div class="mt-5"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
+                                                    src="assets/imgs/template/icons/star.svg"><img alt="Maximus"
                                                     src="assets/imgs/template/icons/star.svg"><span
                                                     class="font-xs color-text-mutted ml-10"><span>(</span><span>34</span><span>)</span></span>
                                             </div><span class="card-location">San Francisco, US</span>
@@ -841,7 +841,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                         <div class="text-center card-grid-3-image"><a href="#">
-                                                <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news1.png">
+                                                <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news1.png">
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
@@ -855,7 +855,7 @@
                                                 <div class="row">
                                                     <div class="col-lg-6 col-6">
                                                         <div class="d-flex"><img class="img-rounded"
-                                                                src="assets/imgs/page/homepage1/user1.png" alt="jobBox">
+                                                                src="assets/imgs/page/homepage1/user1.png" alt="Maximus">
                                                             <div class="info-right-img"><span
                                                                     class="font-sm font-bold color-brand-1 op-70">Sarah
                                                                     Harding</span><br><span
@@ -874,7 +874,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                         <div class="text-center card-grid-3-image"><a href="#">
-                                                <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news2.png">
+                                                <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news2.png">
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
@@ -888,7 +888,7 @@
                                                 <div class="row">
                                                     <div class="col-lg-6 col-6">
                                                         <div class="d-flex"><img class="img-rounded"
-                                                                src="assets/imgs/page/homepage1/user2.png" alt="jobBox">
+                                                                src="assets/imgs/page/homepage1/user2.png" alt="Maximus">
                                                             <div class="info-right-img"><span
                                                                     class="font-sm font-bold color-brand-1 op-70">Steven
                                                                     Jobs</span><br><span
@@ -907,7 +907,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                         <div class="text-center card-grid-3-image"><a href="#">
-                                                <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news3.png">
+                                                <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news3.png">
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
@@ -921,7 +921,7 @@
                                                 <div class="row">
                                                     <div class="col-lg-6 col-6">
                                                         <div class="d-flex"><img class="img-rounded"
-                                                                src="assets/imgs/page/homepage1/user3.png" alt="jobBox">
+                                                                src="assets/imgs/page/homepage1/user3.png" alt="Maximus">
                                                             <div class="info-right-img"><span
                                                                     class="font-sm font-bold color-brand-1 op-70">Wiliam
                                                                     Kend</span><br><span

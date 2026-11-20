@@ -2,9 +2,9 @@
   <div class="container">
     <div class="row">
       <div class="footer-col-1 col-md-3 col-sm-12">
-        <a href="{{ route('login') }}"><img alt="jobBox" src="assets/imgs/template/jobhub-logo.svg" /></a>
+        <a href="{{ route('login') }}"><img alt="Maximus" src="assets/imgs/logo/maximus-logo.png" /></a>
         <div class="mt-20 mb-20 font-xs color-text-paragraph-2">
-          JobBox is the heart of the design community and the best resource
+          Maximus is the heart of the design community and the best resource
           to discover and connect with designers and jobs worldwide.
         </div>
         <div class="footer-social">

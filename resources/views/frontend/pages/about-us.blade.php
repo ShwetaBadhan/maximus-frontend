@@ -57,12 +57,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team1.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team1.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Arlene McCoy</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -70,12 +70,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team2.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team2.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Floyd Miles</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">UI/UX Designer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>28</span><span>)</span></span></div><span class="card-location">Chicago, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>28</span><span>)</span></span></div><span class="card-location">Chicago, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -83,12 +83,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team3.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team3.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Devon Lane</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -96,12 +96,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team4.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team4.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Jerome Bell</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -109,12 +109,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team5.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team5.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Theresa</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -122,12 +122,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team6.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team6.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Cameron</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -135,12 +135,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team7.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team7.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Jacob Jones</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -148,12 +148,12 @@
               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-md-30">
                 <div class="card-grid-4 text-center hover-up">
                   <div class="image-top-feature">
-                    <figure><img alt="jobBox" src="assets/imgs/page/about/team8.png"></figure>
+                    <figure><img alt="Maximus" src="assets/imgs/page/about/team8.png"></figure>
                   </div>
                   <div class="card-grid-4-info">
                     <h5 class="mt-10">Court Henry</h5>
                     <p class="font-xs color-text-paragraph-2 mt-5 mb-5">Frontend Developer</p>
-                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span><img src="assets/imgs/template/icons/star.svg" alt="jobBox"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
+                    <div class="rate-reviews-small pt-5"><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span><img src="assets/imgs/template/icons/star.svg" alt="Maximus"></span><span class="ml-10 color-text-mutted font-xs"><span>(</span><span>65</span><span>)</span></span></div><span class="card-location">New York, US</span>
                     <div class="text-center mt-30"><a class="share-facebook social-share-link" href="#"></a><a class="share-twitter social-share-link" href="#"></a><a class="share-instagram social-share-link" href="#"></a><a class="share-linkedin social-share-link" href="#"></a></div>
                   </div>
                 </div>
@@ -177,7 +177,7 @@
                   <div class="swiper-slide">
                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                       <div class="text-center card-grid-3-image"><a href="#">
-                          <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news1.png"></figure></a></div>
+                          <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news1.png"></figure></a></div>
                       <div class="card-block-info">
                         <div class="tags mb-15"><a class="btn btn-tag" href="javascript:void(0)">News</a></div>
                         <h5><a href="javascript:void(0)">21 Job Interview Tips: How To Make a Great Impression</a></h5>
@@ -185,7 +185,7 @@
                         <div class="card-2-bottom mt-20">
                           <div class="row">
                             <div class="col-lg-6 col-6">
-                              <div class="d-flex"><img class="img-rounded" src="assets/imgs/page/homepage1/user1.png" alt="jobBox">
+                              <div class="d-flex"><img class="img-rounded" src="assets/imgs/page/homepage1/user1.png" alt="Maximus">
                                 <div class="info-right-img"><span class="font-sm font-bold color-brand-1 op-70">Sarah Harding</span><br><span class="font-xs color-text-paragraph-2">06 September</span></div>
                               </div>
                             </div>
@@ -198,7 +198,7 @@
                   <div class="swiper-slide">
                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                       <div class="text-center card-grid-3-image"><a href="#">
-                          <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news2.png"></figure></a></div>
+                          <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news2.png"></figure></a></div>
                       <div class="card-block-info">
                         <div class="tags mb-15"><a class="btn btn-tag" href="javascript:void(0)">Events</a></div>
                         <h5><a href="javascript:void(0)">39 Strengths and Weaknesses To Discuss in a Job Interview</a></h5>
@@ -206,7 +206,7 @@
                         <div class="card-2-bottom mt-20">
                           <div class="row">
                             <div class="col-lg-6 col-6">
-                              <div class="d-flex"><img class="img-rounded" src="assets/imgs/page/homepage1/user2.png" alt="jobBox">
+                              <div class="d-flex"><img class="img-rounded" src="assets/imgs/page/homepage1/user2.png" alt="Maximus">
                                 <div class="info-right-img"><span class="font-sm font-bold color-brand-1 op-70">Steven Jobs</span><br><span class="font-xs color-text-paragraph-2">06 September</span></div>
                               </div>
                             </div>
@@ -219,7 +219,7 @@
                   <div class="swiper-slide">
                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                       <div class="text-center card-grid-3-image"><a href="#">
-                          <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news3.png"></figure></a></div>
+                          <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news3.png"></figure></a></div>
                       <div class="card-block-info">
                         <div class="tags mb-15"><a class="btn btn-tag" href="javascript:void(0)">News</a></div>
                         <h5><a href="javascript:void(0)">Interview Question: Why Dont You Have a Degree?</a></h5>
@@ -227,7 +227,7 @@
                         <div class="card-2-bottom mt-20">
                           <div class="row">
                             <div class="col-lg-6 col-6">
-                              <div class="d-flex"><img class="img-rounded" src="assets/imgs/page/homepage1/user3.png" alt="jobBox">
+                              <div class="d-flex"><img class="img-rounded" src="assets/imgs/page/homepage1/user3.png" alt="Maximus">
                                 <div class="info-right-img"><span class="font-sm font-bold color-brand-1 op-70">Wiliam Kend</span><br><span class="font-xs color-text-paragraph-2">06 September</span></div>
                               </div>
                             </div>
@@ -261,7 +261,7 @@
                       </div>
                       <div class="card-image">
                         <div class="image">
-                          <figure><img alt="jobBox" src="assets/imgs/page/about/user1.png"></figure>
+                          <figure><img alt="Maximus" src="assets/imgs/page/about/user1.png"></figure>
                         </div>
                         <div class="card-profile">
                           <h6>Mark Adair</h6><span>Businessmen</span>
@@ -276,7 +276,7 @@
                       </div>
                       <div class="card-image">
                         <div class="image">
-                          <figure><img alt="jobBox" src="assets/imgs/page/about/user2.png"></figure>
+                          <figure><img alt="Maximus" src="assets/imgs/page/about/user2.png"></figure>
                         </div>
                         <div class="card-profile">
                           <h6>Mark Adair</h6><span>Businessmen</span>
@@ -291,7 +291,7 @@
                       </div>
                       <div class="card-image">
                         <div class="image">
-                          <figure><img alt="jobBox" src="assets/imgs/page/about/user3.png"></figure>
+                          <figure><img alt="Maximus" src="assets/imgs/page/about/user3.png"></figure>
                         </div>
                         <div class="card-profile">
                           <h6>Mark Adair</h6><span>Businessmen</span>

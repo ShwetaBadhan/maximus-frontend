@@ -322,10 +322,10 @@
                                             </div>
                                             <div class="box-view-type"><a class="view-type"
                                                     href="{{ route('jobs-list') }}"><img
-                                                        src="assets/imgs/template/icons/icon-list.svg" alt="jobBox"></a><a
+                                                        src="assets/imgs/template/icons/icon-list.svg" alt="Maximus"></a><a
                                                     class="view-type" href="{{ route('jobs-list') }}"><img
                                                         src="assets/imgs/template/icons/icon-grid-hover.svg"
-                                                        alt="jobBox"></a></div>
+                                                        alt="Maximus"></a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -334,7 +334,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-1.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-1.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">LinkedIn</a><span class="location-small">New
@@ -370,7 +370,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-2.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-2.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="javascript:void(0)">Adobe
                                                     Ilustrator</a><span class="location-small">New York, US</span></div>
@@ -403,7 +403,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-3.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-3.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="javascript:void(0)">Bing
                                                     Search</a><span class="location-small">New York, US</span></div>
@@ -438,7 +438,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-4.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-4.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Dailymotion</a><span
@@ -472,7 +472,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-5.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-5.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Linkedin</a><span class="location-small">New
@@ -504,7 +504,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-6.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-6.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="javascript:void(0)">Quora
                                                     JSC</a><span class="location-small">New York, US</span></div>
@@ -536,7 +536,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-7.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-7.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Nintendo</a><span class="location-small">New
@@ -568,7 +568,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-8.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-8.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Periscope</a><span class="location-small">New
@@ -602,7 +602,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-1.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-1.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">LinkedIn</a><span class="location-small">New
@@ -638,7 +638,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-2.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-2.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="javascript:void(0)">Adobe
                                                     Ilustrator</a><span class="location-small">New York, US</span></div>
@@ -671,7 +671,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-3.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-3.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="javascript:void(0)">Bing
                                                     Search</a><span class="location-small">New York, US</span></div>
@@ -706,7 +706,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-4.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-4.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Dailymotion</a><span
@@ -740,7 +740,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-5.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-5.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Linkedin</a><span class="location-small">New
@@ -772,7 +772,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-6.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-6.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="javascript:void(0)">Quora
                                                     JSC</a><span class="location-small">New York, US</span></div>
@@ -804,7 +804,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-7.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-7.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Nintendo</a><span class="location-small">New
@@ -836,7 +836,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-8.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-8.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">Periscope</a><span class="location-small">New
@@ -870,7 +870,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-1.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-1.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job"
                                                     href="javascript:void(0)">LinkedIn</a><span class="location-small">New
@@ -906,7 +906,7 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="card-grid-2 hover-up">
                                         <div class="card-grid-2-image-left"><span class="flash"></span>
-                                            <div class="image-box"><img src="assets/imgs/brands/brand-2.png" alt="jobBox">
+                                            <div class="image-box"><img src="assets/imgs/brands/brand-2.png" alt="Maximus">
                                             </div>
                                             <div class="right-info"><a class="name-job" href="javascript:void(0)">Adobe
                                                     Ilustrator</a><span class="location-small">New York, US</span></div>
@@ -1283,7 +1283,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                         <div class="text-center card-grid-3-image"><a href="#">
-                                                <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news1.png">
+                                                <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news1.png">
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
@@ -1298,7 +1298,7 @@
                                                 <div class="row">
                                                     <div class="col-lg-6 col-6">
                                                         <div class="d-flex"><img class="img-rounded"
-                                                                src="assets/imgs/page/homepage1/user1.png" alt="jobBox">
+                                                                src="assets/imgs/page/homepage1/user1.png" alt="Maximus">
                                                             <div class="info-right-img"><span
                                                                     class="font-sm font-bold color-brand-1 op-70">Sarah
                                                                     Harding</span><br><span
@@ -1317,7 +1317,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                         <div class="text-center card-grid-3-image"><a href="#">
-                                                <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news2.png">
+                                                <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news2.png">
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
@@ -1332,7 +1332,7 @@
                                                 <div class="row">
                                                     <div class="col-lg-6 col-6">
                                                         <div class="d-flex"><img class="img-rounded"
-                                                                src="assets/imgs/page/homepage1/user2.png" alt="jobBox">
+                                                                src="assets/imgs/page/homepage1/user2.png" alt="Maximus">
                                                             <div class="info-right-img"><span
                                                                     class="font-sm font-bold color-brand-1 op-70">Steven
                                                                     Jobs</span><br><span
@@ -1351,7 +1351,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-3 hover-up wow animate__animated animate__fadeIn">
                                         <div class="text-center card-grid-3-image"><a href="#">
-                                                <figure><img alt="jobBox" src="assets/imgs/page/homepage1/img-news3.png">
+                                                <figure><img alt="Maximus" src="assets/imgs/page/homepage1/img-news3.png">
                                                 </figure>
                                             </a></div>
                                         <div class="card-block-info">
@@ -1367,7 +1367,7 @@
                                                 <div class="row">
                                                     <div class="col-lg-6 col-6">
                                                         <div class="d-flex"><img class="img-rounded"
-                                                                src="assets/imgs/page/homepage1/user3.png" alt="jobBox">
+                                                                src="assets/imgs/page/homepage1/user3.png" alt="Maximus">
                                                             <div class="info-right-img"><span
                                                                     class="font-sm font-bold color-brand-1 op-70">Wiliam
                                                                     Kend</span><br><span
